@@ -110,11 +110,13 @@
         <item url="file://$USER_HOME$/.meteor/packages/geojson-utils/1.0.4/web.browser/geojson-utils.js" />
         <item url="file://$USER_HOME$/.meteor/packages/geojson-utils/1.0.4/web.browser/pre.js" />
         <item url="file://$USER_HOME$/.meteor/packages/geojson-utils/1.0.4/web.browser/post.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/bootswatch_paper/3.3.4_2/web.browser/packages/bootswatch_paper/bootswatch/paper/bootstrap.css" />
         <item url="file://$USER_HOME$/.meteor/packages/html-tools/1.0.5/web.browser/scanner.js" />
         <item url="file://$USER_HOME$/.meteor/packages/html-tools/1.0.5/web.browser/templatetag.js" />
         <item url="file://$USER_HOME$/.meteor/packages/html-tools/1.0.5/web.browser/tokenize.js" />
         <item url="file://$USER_HOME$/.meteor/packages/html-tools/1.0.5/web.browser/utils.js" />
         <item url="file://$USER_HOME$/.meteor/packages/html-tools/1.0.5/web.browser/charref.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/bootswatch_paper/3.3.4_2/web.browser/packages/bootswatch_paper.js" />
         <item url="file://$USER_HOME$/.meteor/packages/html-tools/1.0.5/web.browser/parse.js" />
         <item url="file://$USER_HOME$/.meteor/packages/htmljs/1.0.5/web.browser/html.js" />
         <item url="file://$USER_HOME$/.meteor/packages/htmljs/1.0.5/web.browser/visitors.js" />
@@ -236,11 +238,13 @@
       <root url="file://$USER_HOME$/.meteor/packages/geojson-utils/1.0.4/web.browser/geojson-utils.js" />
       <root url="file://$USER_HOME$/.meteor/packages/geojson-utils/1.0.4/web.browser/pre.js" />
       <root url="file://$USER_HOME$/.meteor/packages/geojson-utils/1.0.4/web.browser/post.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/bootswatch_paper/3.3.4_2/web.browser/packages/bootswatch_paper/bootswatch/paper/bootstrap.css" />
       <root url="file://$USER_HOME$/.meteor/packages/html-tools/1.0.5/web.browser/scanner.js" />
       <root url="file://$USER_HOME$/.meteor/packages/html-tools/1.0.5/web.browser/templatetag.js" />
       <root url="file://$USER_HOME$/.meteor/packages/html-tools/1.0.5/web.browser/tokenize.js" />
       <root url="file://$USER_HOME$/.meteor/packages/html-tools/1.0.5/web.browser/utils.js" />
       <root url="file://$USER_HOME$/.meteor/packages/html-tools/1.0.5/web.browser/charref.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/bootswatch_paper/3.3.4_2/web.browser/packages/bootswatch_paper.js" />
       <root url="file://$USER_HOME$/.meteor/packages/html-tools/1.0.5/web.browser/parse.js" />
       <root url="file://$USER_HOME$/.meteor/packages/htmljs/1.0.5/web.browser/html.js" />
       <root url="file://$USER_HOME$/.meteor/packages/htmljs/1.0.5/web.browser/visitors.js" />
