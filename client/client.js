@@ -27,6 +27,7 @@ Template.addPlayerForm.events({
         event.preventDefault();
         var playerNameVar = event.target.playerName.value;
         Meteor.call('insertPlayerData', playerNameVar);
+        event.target.reset();
     }
 });
 Template.leaderboard.events({
